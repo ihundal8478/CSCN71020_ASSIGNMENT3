@@ -6,7 +6,7 @@
 const char* playGame(const char* player1Shape, const char* player2Shape)
 {
 	//#write functional code here
-	return STR_INVALID;
+	//return STR_INVALID;
 }
 
 int main()
